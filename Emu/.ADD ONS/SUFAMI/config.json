@@ -1,0 +1,13 @@
+{
+	"label":	"Sufami",
+	"icon":	        "/mnt/SDCARD/Icons/Default/sufami.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/sufami.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/SUFAMI",
+	"imgpath":	"../../Roms/SUFAMI/Imgs",
+	"gamelist":	"../../Roms/SUFAMI/miyoogamelist.xml",
+	"useswap":	1,
+	"shortname":	0,
+	"hidebios":	1,
+	"extlist":	"smc|zip|7z"
+}

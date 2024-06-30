@@ -1,0 +1,23 @@
+{
+    "label":"DC",
+	"icon":	        "/mnt/SDCARD/Icons/Default/dc.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/dc.png",
+    "launch":"launch.sh",
+    "rompath":"../../Roms/DC",
+	"imgpath":	"../../Roms/DC/Imgs",
+    "useswap":1,
+    "shortname":0,
+    "hidebios":1,
+    "extlist":"cdi|gdi|cue|iso|chd",
+    "launchlist": [
+        {
+            "name": "Flycast",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "Flycast Xtreme",
+            "launch": "launch1.sh"
+        }
+		
+	]
+}

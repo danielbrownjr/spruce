@@ -1,0 +1,13 @@
+{
+	"label":	"NGPC",
+	"icon":	        "/mnt/SDCARD/Icons/Default/ngpc.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/ngpc.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/NGPC",
+	"imgpath":	"../../Roms/NGPC/Imgs",
+	"gamelist":	"../../Roms/NGPC/miyoogamelist.xml",
+	"useswap":	0,
+	"shortname":	0,
+	"hidebios":	0,
+	"extlist":	"ngp|ngc|zip|7z"
+}

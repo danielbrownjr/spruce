@@ -1,0 +1,7 @@
+{
+	"label":        "RTC",
+	"icon":	        "icon.png",
+        "iconsel":      "iconsel.png",
+	"launch":       "launch.sh",
+	"description":  "Set the real time clock"
+}

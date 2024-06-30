@@ -1,0 +1,13 @@
+{
+	"label":	"Intellivis.",
+	"icon":	        "/mnt/SDCARD/Icons/Default/itv.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/itv.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/INTELLIVISION",
+	"imgpath":	"../../Roms/INTELLIVISION/Imgs",
+	"gamelist":	"../../Roms/INTELLIVISION/miyoogamelist.xml",
+	"useswap":	1,
+	"shortname":	0,
+	"hidebios":	1,
+	"extlist":	"bin|int|zip|7z"
+}

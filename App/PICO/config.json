@@ -1,0 +1,7 @@
+{
+"label":"PICO-8",
+"icon":"icon.png",
+"iconsel":"iconsel.png",
+"launch":"script/launch.sh",
+"description":"Splore - play and explore games"
+}

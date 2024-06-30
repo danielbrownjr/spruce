@@ -1,0 +1,12 @@
+{
+"label":"N64",
+	"icon":	        "/mnt/SDCARD/Icons/Default/n64.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/n64.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/N64",
+	"imgpath":	"../../Roms/N64/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":"n64|v64|z64|zip|7z"
+}

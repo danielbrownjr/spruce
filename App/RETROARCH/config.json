@@ -1,0 +1,7 @@
+{
+"label":"RETROARCH",
+"icon":"icon.png",
+"iconsel":"iconsel.png",
+"launch":"launch.sh",
+"description":"Core and game configuration"
+}

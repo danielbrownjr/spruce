@@ -1,0 +1,13 @@
+{
+	"label":	"ChannelF",
+	"icon":	        "/mnt/SDCARD/Icons/Default/fairchild.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/fairchild.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/FAIRCHILD",
+	"imgpath":	"../../Roms/FAIRCHILD/Imgs",
+	"gamelist":	"../../Roms/FAIRCHILD/miyoogamelist.xml",
+	"useswap":	0,
+	"shortname":	0,
+	"hidebios":	1,
+	"extlist":	"bin|rom|chf|zip"
+}

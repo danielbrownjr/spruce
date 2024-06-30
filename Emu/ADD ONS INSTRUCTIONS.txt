@@ -1,0 +1,3 @@
+HOW TO ADD EMULATORS
+
+Simply drag the Emulator folder you want to add from the .ADD ON folder to the main EMU folder with the 16 base emulators. Everything is already configured for the emulator to work. Keeping them in the .ADD ON folder hides them from the Game menu.

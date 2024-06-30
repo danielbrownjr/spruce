@@ -1,0 +1,13 @@
+{
+    "label": "PORTS",
+    "icon": "/mnt/SDCARD/Icons/Default/ports.png",
+    "iconsel": "/mnt/SDCARD/Icons/Default/sel/ports.png",
+    "launch": "launch.sh",
+    "rompath": "/mnt/SDCARD/Roms/PORTS",
+    "imgpath": "/mnt/SDCARD/Roms/PORTS/Imgs",
+    "gamelist": "/mnt/SDCARD/Roms/PORTS/miyoogamelist.xml",
+    "useswap": 0,
+    "shortname": 0,
+    "hidebios": 0,
+    "extlist": "sh"
+}

@@ -1,0 +1,13 @@
+{
+	"label":	"Atari Lynx",
+	"icon":	        "/mnt/SDCARD/Icons/Default/lynx.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/lynx.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/LYNX",
+	"imgpath":	"../../Roms/LYNX/Imgs",
+	"gamelist":	"../../Roms/LYNX/miyoogamelist.xml",
+	"useswap":	0,
+	"shortname":	0,
+	"hidebios":	1,
+	"extlist":	"lnx|zip"
+}

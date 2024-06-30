@@ -1,0 +1,13 @@
+{
+	"label":	"Mega Duck",
+	"icon":	        "/mnt/SDCARD/Icons/Default/megaduck.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/megaduck.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/MEGADUCK",
+	"imgpath":	"../../Roms/MEGADUCK/Imgs",
+	"gamelist":	"../../Roms/MEGADUCK/miyoogamelist.xml",
+	"useswap":	1,
+	"shortname":	0,
+	"hidebios":	1,
+	"extlist":	"bin|zip|7z"
+}

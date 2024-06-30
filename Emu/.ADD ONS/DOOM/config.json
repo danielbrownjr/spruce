@@ -1,0 +1,13 @@
+{
+	"label":	"DOOM",
+	"icon":	        "/mnt/SDCARD/Icons/Default/doom.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/doom.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/DOOM",
+	"imgpath":	"../../Roms/DOOM/Imgs",
+	"gamelist":	"../../Roms/DOOM/miyoogamelist.xml",
+	"useswap":	1,
+	"shortname":	0,
+	"hidebios":	1,
+	"extlist":	"zip|wad|exe"
+}

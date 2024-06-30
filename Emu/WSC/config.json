@@ -1,0 +1,13 @@
+{
+	"label":	"WndrSwnC",
+	"icon":	        "/mnt/SDCARD/Icons/Default/wsc.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/wsc.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/WSC",
+	"imgpath":	"../../Roms/WSC/Imgs",
+	"gamelist":	"../../Roms/WSC/miyoogamelist.xml",
+	"useswap":	1,
+	"shortname":	0,
+	"hidebios":	1,
+	"extlist":	"ws|pc2|zip|7z"
+}

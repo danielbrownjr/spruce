@@ -1,0 +1,13 @@
+{
+	"label":	"NeoGeo",
+	"icon":	        "/mnt/SDCARD/Icons/Default/neogeo.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/neogeo.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/NEOGEO",
+	"imgpath":	"../../Roms/NEOGEO/Imgs",
+	"gamelist":	"../../Roms/NEOGEO/miyoogamelist.xml",
+	"useswap":	1,
+	"shortname":	1,
+	"hidebios":	1,
+	"extlist":	"zip|7z"
+}

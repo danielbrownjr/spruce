@@ -1,0 +1,13 @@
+{
+	"label":	"MSUMD",
+	"icon":	        "/mnt/SDCARD/Icons/Default/msumd.png",
+	"iconsel":	"/mnt/SDCARD/Icons/Default/sel/msumd.png",
+	"launch":	"launch.sh",
+	"rompath":	"../../Roms/MSUMD",
+	"imgpath":	"../../Roms/MSUMD/Imgs",
+	"gamelist":	"../../Roms/MSUMD/miyoogamelist.xml",
+	"useswap":	1,
+	"shortname":	0,
+	"hidebios":	0,
+	"extlist":	"gen|smd|md|32x|bin|iso|sms|68k|chd|zip|7z"
+}

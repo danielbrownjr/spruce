@@ -1,0 +1,7 @@
+{
+    "label":"FILE MANAGEMENT",
+    "icon":"icon.png",
+    "iconsel":"iconsel.png",
+    "launch":"launch.sh",
+    "description":"View and move files on your sd card"
+}
